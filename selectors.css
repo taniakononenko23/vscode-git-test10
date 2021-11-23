@@ -11,8 +11,10 @@ section.to-be-learned {
 }
 section.already-learned code {
   background-color: orange;
-  border: solid blue;
 }
 section code {
   background-color: green;
+}
+#special1 + li code {
+  border: 2px solid blue;
 }
