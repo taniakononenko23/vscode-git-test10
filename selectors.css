@@ -9,6 +9,9 @@ section.to-be-learned {
 #special2 ~ li {
   font-size: 24px;
 }
-code {
+section.already-learned code {
   background-color: orange;
+}
+section code {
+  background-color: green;
 }
