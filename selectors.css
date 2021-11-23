@@ -1,0 +1,14 @@
+section.already-learned {
+  background-color: green;
+  color: white;
+}
+section.to-be-learned {
+  background-color: orange;
+  color: green;
+}
+#special2 ~ li {
+  font-size: 24px;
+}
+code {
+  background-color: orange;
+}
